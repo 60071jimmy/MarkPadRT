@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System;                                   //  引入System函式庫
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;

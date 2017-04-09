@@ -1,5 +1,5 @@
-using System.Threading.Tasks;
-using Windows.UI.Xaml;
+using System.Threading.Tasks;                                   //  引入System.Threading.Tasks函式庫
+using Windows.UI.Xaml;                                          //	引入Windows.UI.Xaml函式庫
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
 
